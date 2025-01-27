@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A computer science student from Austin, TX, currently studying at Louisiana Tech.</h3>
 
-- 🔭 I’m currently working on **a Spotify playlist picker**
-
 - 🌱 I’m currently learning about **advanced data structures, and am working to learn C**
 
 - 📫 How to reach me **jack.revelett@gmail.com**
